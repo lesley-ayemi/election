@@ -248,6 +248,83 @@
 		  type: 'image'
 		});
 
+		// made by lesley
+		$('.video-link1').magnificPopup({
+			type: 'iframe',
+		  	  
+				iframe: {
+					patterns: {
+						youtube: {
+			   
+							index: 'youtube.com',
+							src: 'images/fish-proejct/vid-1.mp4'
+				
+								}
+							}
+						}		  		  
+		  });
+
+		  $('.video-link2').magnificPopup({
+			type: 'iframe',
+		  	  
+				iframe: {
+					patterns: {
+						youtube: {
+			   
+							index: 'youtube.com',
+							src: 'images/fish-proejct/vid-2.mp4'
+				
+								}
+							}
+						}		  		  
+		  });
+
+		  $('.video-link3').magnificPopup({
+			type: 'iframe',
+		  	  
+				iframe: {
+					patterns: {
+						youtube: {
+			   
+							index: 'youtube.com',
+							src: 'images/fish-proejct/vid-3.mp4'
+				
+								}
+							}
+						}		  		  
+		  });
+
+		  $('.video-link4').magnificPopup({
+			type: 'iframe',
+		  	  
+				iframe: {
+					patterns: {
+						youtube: {
+			   
+							index: 'youtube.com',
+							src: 'images/fish-proejct/vid-4.mp4'
+				
+								}
+							}
+						}		  		  
+		  });
+
+		  $('.video-link5').magnificPopup({
+			type: 'iframe',
+		  	  
+				iframe: {
+					patterns: {
+						youtube: {
+			   
+							index: 'youtube.com',
+							src: 'images/fish-proejct/vid-5.mp4'
+				
+								}
+							}
+						}		  		  
+		  });
+  
+
 
 		/*----------------------------------------------------*/
 		/*	Video Link #1 Lightbox
